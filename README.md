@@ -137,8 +137,9 @@ All measures follow **best DAX practices** with:
 ---
 
 ## 🖼️ Dashboard Preview
-
-*(Add Power BI screenshots here)*
+https://github.com/user-attachments/assets/1296add8-0d08-45f3-9513-815c97e9658c
+## 🖼️ Full Preview On LinkedIn
+https://www.linkedin.com/feed/update/urn:li:activity:7407160113096171520/
 
 ---
 
@@ -219,4 +220,5 @@ python tmdb_api_extraction.py
 ---
 
 ⭐ *If you like this project, consider giving it a star!*
+
 
